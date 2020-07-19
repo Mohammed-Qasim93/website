@@ -1,0 +1,43 @@
+.fl{
+    font-size: 3rem;
+}
+#showcase p{
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.content .form {
+   max-width: 100%;
+   display: flex;
+   flex-direction: column;
+ 
+}
+
+.content .form .formgroup{
+    align-self: center;
+    width: 250%;
+}
+
+#who {
+    display :block;
+    height: 93%;
+    border: 2px solid #333;
+}
+#who .whoimg{background: none;}
+
+.main{
+    font-size: 1rem;
+    text-align: center;
+    line-height: 2rem;
+    padding-top: 0.5rem;
+}
+#who .whoclass .f{
+    font-size: 2rem;
+    margin:1rem 1rem;
+
+}
+#who .whoclass p{
+
+}
+
+
